@@ -6,7 +6,7 @@ Welcome to Antares Cashier System, an advanced point-of-sale system designed to 
 
 ## Flowchart
 
-[![Flowchart](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view)](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view)
+Please visit the detailed flow chart [here](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view).
 
 ## Key Features
 1. **Program Initialization**: The program initializes the merchant name and cashier name when first run.
