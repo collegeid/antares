@@ -4,7 +4,7 @@
 
 Welcome to Antares Cashier System, an advanced point-of-sale system designed to streamline your sales process and enhance customer experience.
 
-## Flowchart
+## Flow Chart
 
 Please visit the detailed flow chart [here](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view).
 
