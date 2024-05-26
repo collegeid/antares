@@ -1,7 +1,12 @@
 # Antares Cashier
 
-## Description
-Antares Cashier is a simple cashier program designed to assist in managing the purchase transactions of goods in a store. This program allows users to add items to the shopping cart, edit the cart, and proceed with the checkout process.
+![Antares Flow Chart](flow_antares.png)
+
+Welcome to Antares Cashier System, an advanced point-of-sale system designed to streamline your sales process and enhance customer experience.
+
+## Flowchart
+
+[![Flowchart](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view)](https://www.canva.com/design/DAF47TzzRDo/oE0eiCk_Z8cvZdoN1jts5g/view)
 
 ## Key Features
 1. **Program Initialization**: The program initializes the merchant name and cashier name when first run.
